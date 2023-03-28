@@ -1,0 +1,25 @@
+Verici Kart:
+
+Adress: 63
+Channel: 23
+UartRate: 9600bps
+Parity: 8N1
+AirRate: 2.4Kbps
+Power: 20dBm
+FEC: Enable
+Fixed Mode: Enable
+WOR Timing: 250ms
+IO Mode: PushPull
+
+Alıcı Kartı:
+
+Adress: 44
+Channel: 23
+UartRate: 9600bps
+Parity: 8N1
+AirRate: 2.4Kbps
+Power: 20dBm
+FEC: Enable
+Fixed Mode: Enable
+WOR Timing: 250ms
+IO Mode: PushPull
